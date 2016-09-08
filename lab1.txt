@@ -53,4 +53,4 @@
         A 302 is returned first, and then a 200. 
 
 7.      
-        A 405 is returned, which means GET method is not allowed on that host.
+        A 202 is returned by the python script. The request has been accepted for processing, but the processing has not been completed. 
